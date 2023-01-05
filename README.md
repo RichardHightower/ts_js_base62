@@ -1,4 +1,4 @@
-# Video 7 show notes for JavaScript/TypeScript
+# Video 8 show notes for JavaScript/TypeScript Base62
 
 * Link to this [page](https://bit.ly/js_ts_base62): `https://bit.ly/js_ts_base62` 
 * Link to related [video](https://youtu.be/1kbAUob3Bi0) TODO
